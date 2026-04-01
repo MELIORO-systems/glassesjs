@@ -173,7 +173,7 @@ section + section {
 
 .nav-logo .logo-icon {
   color: var(--accent);
-  font-size: 1.5rem;
+  flex-shrink: 0;
 }
 
 .nav-links {
@@ -611,6 +611,23 @@ section + section {
 
 .footer-content a {
   color: var(--text-secondary);
+}
+
+.footer-author {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.footer-author a {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.footer-copyright {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
 }
 
 .footer-built {
