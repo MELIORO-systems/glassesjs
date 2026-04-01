@@ -44,7 +44,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/melioro/glassesjs"
+    "url": "https://github.com/MELIORO-systems/glassesjs"
   },
   "homepage": "https://glassesjs.com",
   "peerDependencies": {
